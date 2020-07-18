@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sky
+  - Ground
+  - Fire
+  - DarkCloud
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Game
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3460897977
+    locked: 0
+  - name: MovingLayer
+    uniqueID: 1634355043
+    locked: 0
+  - name: Game
+    uniqueID: 472890125
+    locked: 0
+  - name: LeftCloud
+    uniqueID: 971983845
+    locked: 0
+  - name: Clouds
+    uniqueID: 3621405275
+    locked: 0
+  - name: Ground
+    uniqueID: 3456980021
+    locked: 0
