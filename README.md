@@ -11,26 +11,26 @@ First you need to download the projects <br>
 
 Then open unity development environment and click "Start"
 
-### Bird Game  
+## Bird Game  
 FolderName: "PlatformGame" <br>
 
-## Controls
+### Controls
 The bird flies with left-mouse click. You have to click repeatedly. <br>
 
 
 
-## Deaths
+### Deaths
 * If the bird flies more than 8 seconds in black clouds, bird dies
 * If the bird flies too high, bird dies
 * If the bird falls to the ground, bird dies
 
-### Car Game
+## Car Game
 FolderName: "2DCarGame/2D-TestGame" <br>
 
-## Controls
+### Controls
 "Z" to go forward <br>
 "S" to go backwards <br>
 
-## Deaths
+### Deaths
 
 * If the car falls into the hole
